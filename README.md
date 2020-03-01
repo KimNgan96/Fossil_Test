@@ -1,5 +1,5 @@
 # Fossil_Test
-- enviroment python 3.7
+- Enviroment python 3.7
 - Steps to run: 
   1) Open command line and cd to folder contains files
   2) Use command 'python <filename>' to run
